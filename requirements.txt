@@ -6,5 +6,5 @@ pandas>=1.1.4
 matplotlib>=3.4.3
 lightgbm>=3.1.1
 scikit-learn>=0.22.2.post1
-Cython== 0.28.5
+Cython==0.28.5
 setuptools==58.0
